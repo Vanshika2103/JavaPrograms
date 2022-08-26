@@ -1,6 +1,4 @@
 🔥🔥 *REVERSE A STRING* 🔥🔥
-
-
 import java.util.Date;
 
 public class HelloWorld {
@@ -12,8 +10,6 @@ ring[] args) {
       int i=s.length();
       while (i>0){
         System.out.print(s.charAt(i-1));
-      i--;
-        
-      }
-      
+      i--;       
+      }   
     }
